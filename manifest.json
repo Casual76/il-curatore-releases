@@ -1,0 +1,50 @@
+{
+  "app": {
+    "id": "il-curatore",
+    "name": "Il Curatore",
+    "description": "Visual novel narrativa della 4F: capitoli, archivio citazioni e aggiornamenti Pampa Store.",
+    "packageName": "com.pampa.ilcuratore",
+    "iconUrl": "",
+    "category": "Games",
+    "developer": "Pampa",
+    "screenshots": [],
+      "repository": {
+        "repoOwner": "Casual76",
+        "repoName": "il-curatore-releases",
+        "manifestPath": "manifest.json",
+        "ref": ""
+      },
+    "stable": {
+      "version": "0.0.0",
+      "releaseDate": "",
+      "changelog": "Non ancora pubblicata.",
+      "releaseTag": "",
+      "apkAsset": "",
+      "exeAsset": "",
+      "sizeBytes": 0,
+      "sha256": ""
+    },
+    "beta": {
+      "version": "1.0.0-beta.1",
+      "releaseDate": "2026-06-08",
+      "changelog": "Beta iniziale: Prologo e Capitolo 1 fino al 28 febbraio 2026, archivio citazioni, salvataggi, impostazioni, SFX originali e updater APK.",
+      "releaseTag": "beta-il-curatore-v1.0.0-beta.1",
+      "apkAsset": "il-curatore-1.0.0-beta.1.apk",
+      "exeAsset": "",
+      "sizeBytes": 177197234,
+      "sha256": "7f85e57eba216c5899d9de4204d7d6a178ff06dcd80f2e6027ddc06a69067f0a"
+    },
+    "history": [
+      {
+        "version": "1.0.0-beta.1",
+        "releaseDate": "2026-06-08",
+        "changelog": "Beta iniziale: Prologo e Capitolo 1 fino al 28 febbraio 2026, archivio citazioni, salvataggi, impostazioni, SFX originali e updater APK.",
+        "releaseTag": "beta-il-curatore-v1.0.0-beta.1",
+        "apkAsset": "il-curatore-1.0.0-beta.1.apk",
+        "exeAsset": "",
+        "sizeBytes": 177197234,
+        "sha256": "7f85e57eba216c5899d9de4204d7d6a178ff06dcd80f2e6027ddc06a69067f0a"
+      }
+    ]
+  }
+}
