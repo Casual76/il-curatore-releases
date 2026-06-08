@@ -8,12 +8,12 @@
     "category": "Games",
     "developer": "Pampa",
     "screenshots": [],
-      "repository": {
-        "repoOwner": "Casual76",
-        "repoName": "il-curatore-releases",
-        "manifestPath": "manifest.json",
-        "ref": ""
-      },
+    "repository": {
+      "repoOwner": "Casual76",
+      "repoName": "il-curatore-releases",
+      "manifestPath": "manifest.json",
+      "ref": ""
+    },
     "stable": {
       "version": "0.0.0",
       "releaseDate": "",
@@ -31,8 +31,7 @@
       "releaseTag": "beta-il-curatore-v1.0.0-beta.1",
       "apkAsset": "il-curatore-1.0.0-beta.1.apk",
       "exeAsset": "",
-      "sizeBytes": 177197234,
-      "sha256": "7f85e57eba216c5899d9de4204d7d6a178ff06dcd80f2e6027ddc06a69067f0a"
+      "sizeBytes": 177197234
     },
     "history": [
       {
